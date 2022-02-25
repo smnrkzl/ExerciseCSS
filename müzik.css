@@ -1,0 +1,15 @@
+.d1 {
+  text-align: center;
+  font-size: 40px;
+  color: red;
+}
+.d2 {
+  color: blueviolet;
+  margin-left: 300px;
+  float: left;
+}
+.d3 {
+  color: blueviolet;
+  margin-top: 90px;
+  margin-left: 650px;
+}
